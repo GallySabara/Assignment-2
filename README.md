@@ -1,3 +1,5 @@
+**# Assignment 02 machine learning & deep learning**
+
 **02_KELOMPOK F_1 Klasifikasi dengan Model Pembelajaran Mesin Terbimbing**
 1.  Kumpulan data : SC_HW1_bank_data
 2.  Perpustakaan : Pandas, Numpy, Scikit-learn
