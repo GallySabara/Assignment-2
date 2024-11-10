@@ -33,7 +33,6 @@ valuasi : Setiap model dievaluasi berdasarkan akurasi dan laporan klasifikasi. M
     KMeans.
 
 **Langkah-langkah :**
-
 1.  Menentukan Jumlah Cluster Terbaik : Gunakan Metode Elbow atau 
     Silhouette 
     Score untuk menemukan jumlah cluster yang optimal.
@@ -72,7 +71,7 @@ valuasi : Setiap model dievaluasi berdasarkan akurasi dan laporan klasifikasi. M
     kerasuntuk menyimpan model, kemudian muat ulang model untuk prediksi 
     dengan data baru ( x_new_Adan x_new_B).
 
-**02_KEOMPOK F4 Klasifikasi dengan PyTorch**
+**02_KELOMPOK F_4 Klasifikasi dengan PyTorch**
 1.  Tugas : Mengklasifikasikan Transaksi Penipuan Kartu Kredit
 2.  Dataset : Penipuan Kartu Kredit 2023
 3.  Tujuan : Klasifikasi transaksi penipuan kredit menggunakan Multilayer 
